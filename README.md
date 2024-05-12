@@ -1,1 +1,1 @@
-selecode capmp start the test code at Github
+selecode camp start the test code at Github
